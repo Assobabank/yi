@@ -1,0 +1,110 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+  
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+
+        
+
+
+* 
+{
+margin: 0;
+padding: 0;
+}
+body
+{
+width:100% ;
+font-size:15px;
+
+}
+.box
+{
+ 
+  width  : 80%;
+  height: 500px;
+  margin: 100px;
+  display: flex;
+  align-items: center;
+  
+
+}
+
+ 
+.small
+{
+    
+ width: 80%;
+ height: 500px;
+ background-color: hsl(31, 77%, 52%);
+ border-top-left-radius: 10PX;
+ border-bottom-left-radius:10px ;
+
+ 
+}
+  .pole {
+    width: 80%;
+    height: 500px;
+    background-color: hsl(184, 100%, 22%) ;
+}
+  .pile { 
+    width: 80%;
+    height: 500px;
+    background-color:hsl(179, 100%, 13%) ;
+    border-top-right-radius: 10PX;
+    border-bottom-right-radius:10px ;
+}
+  .pale
+  {
+    margin-top: 50px;
+    font-family: Big Shoulders Display;
+    color: hsl(0, 0%, 95%) ;
+
+  }
+  .male
+  {
+    margin-top: 50px;
+    font-family:Lexend Deca;
+    color: hsla(0, 0%, 100%, 0.75);
+    
+  }
+  .pick 
+  
+  {
+    margin-top: 100px;
+    border-radius: 30px 30px 30px ;
+     background-color: white;
+     height: 48px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 144px;
+
+  }
+  
+  
+  
+  
+
+  .mol
+  
+  {
+    color:hsl(31, 77%, 52%) ; 
+    
+  }
+  .col
+  
+  {
+    color: hsl(184, 100%, 22%);
+    
+  }
+  .pol
+  
+  {
+  color: hsl(179, 100%, 13%) ;
+  
+  }
+  
+
+
+  
